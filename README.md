@@ -8,7 +8,7 @@ The purpose of this senior design project was to create a testbed and user inter
 The user interface allows adjustments to be specific in its representation for each trial. The following is a guide to operating the GUI.
 
 (1) Specify the shape of your sample (square/rectangle or circular/ellipsoid) <br/>
-&nbsp (2) Specify the length and width of your sample <br/>
+&emsp; (2) Specify the length and width of your sample <br/>
 (3) Either upload a temperature file or collect data directly from the testbed <br/>
    (3a) For testing, an "arbitrary_temps.csv" was provided for upload <br/>
 (4) Adjust the expected temperature rangeso the 3D thermal map can display in a visually maximizing way <br/>
