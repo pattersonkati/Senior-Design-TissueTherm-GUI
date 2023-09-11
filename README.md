@@ -5,6 +5,8 @@ This repository is comprised of a user-friendly GUI that was created to support 
 
 The purpose of this senior design project was to create a testbed and user interface that will assist in the research of thermal effects of PEMF radiation on tissues. This system was most often tested with raw chicken breast. 
 
+Run the _userinterface.py_ file to generate the GUI.
+
 The user interface allows adjustments to be specific in its representation for each trial. The following is a guide to operating the GUI.
 
 (1) Specify the shape of your sample (square/rectangle or circular/ellipsoid) <br/>
